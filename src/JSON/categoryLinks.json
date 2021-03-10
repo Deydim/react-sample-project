@@ -1,0 +1,418 @@
+{
+  "child-clothes": [{
+      "aHref": "tops",
+      "count": "1392",
+      "value": "Блузи"
+    },
+    {
+      "aHref": "outerwear",
+      "count": "1138",
+      "value": "Връхни дрехи"
+    },
+    {
+      "aHref": "jumpsuits",
+      "count": "222",
+      "value": "Гащеризони"
+    },
+    {
+      "aHref": "jeans",
+      "count": "1695",
+      "value": "Дънки"
+    },
+    {
+      "aHref": "vests",
+      "count": "292",
+      "value": "Елеци"
+    },
+    {
+      "aHref": "cardigans",
+      "count": "523",
+      "value": "Жилетки"
+    },
+    {
+      "aHref": "sets",
+      "count": "47",
+      "value": "Комплекти"
+    },
+    {
+      "aHref": "trousers",
+      "count": "2296",
+      "value": "Панталони"
+    },
+    {
+      "aHref": "skirts-and-dresses",
+      "count": "886",
+      "value": "Поли и рокли"
+    },
+    {
+      "aHref": "shirts",
+      "count": "975",
+      "value": "Ризи"
+    },
+    {
+      "aHref": "sweatshirts",
+      "count": "180",
+      "value": "Суичъри"
+    },
+    {
+      "aHref": "t-shirts",
+      "count": "95",
+      "value": "Тениски"
+    },
+    {
+      "aHref": "top",
+      "count": "32",
+      "value": "Топ"
+    },
+    {
+      "aHref": "tunics",
+      "count": "152",
+      "value": "Туники"
+    },
+    {
+      "aHref": "sweaters",
+      "count": "458",
+      "value": "Пуловери"
+    },
+    {
+      "aHref": "sports-clothing",
+      "count": "1864",
+      "value": "Спорт"
+    },
+    {
+      "aHref": "shorts",
+      "count": "80",
+      "value": "Къси панталони"
+    },
+    {
+      "aHref": "swimwear",
+      "count": "2",
+      "value": "Бански"
+    },
+    {
+      "aHref": "socks-and-tights",
+      "count": "1",
+      "value": "Чорапи и чорапогащници"
+    },
+    {
+      "aHref": "underwear",
+      "count": "11",
+      "value": "Бельо"
+    }
+  ],
+  "accessories": [{
+      "aHref": "scarfs",
+      "count": "652",
+      "value": "Шалове"
+    },
+    {
+      "aHref": "gloves",
+      "count": "78",
+      "value": "Ръкавици"
+    },
+    {
+      "aHref": "belts",
+      "count": "157",
+      "value": "Колани"
+    },
+    {
+      "aHref": "sunglasses",
+      "count": "108",
+      "value": "Слънчеви очила"
+    },
+    {
+      "aHref": "hats",
+      "count": "332",
+      "value": "Шапки"
+    },
+    {
+      "aHref": "watches",
+      "count": "44",
+      "value": "Часовници"
+    },
+    {
+      "aHref": "snowboard-bindings",
+      "count": "2",
+      "value": "Сноуборд автомати"
+    }
+  ],
+  "bags": [{
+      "aHref": "womens-bags",
+      "count": "903",
+      "value": "Дамски чанти"
+    },
+    {
+      "aHref": "mens-bags",
+      "count": "61",
+      "value": "Мъжки чанти"
+    },
+    {
+      "aHref": "bags-other",
+      "count": "73",
+      "value": "Други чанти"
+    },
+    {
+      "aHref": "backpacks",
+      "count": "83",
+      "value": "Раници"
+    },
+    {
+      "aHref": "holdalls",
+      "count": "15",
+      "value": "Сакове"
+    },
+    {
+      "aHref": "suitcases",
+      "count": "10",
+      "value": "Куфари"
+    },
+    {
+      "aHref": "wallets",
+      "count": "49",
+      "value": "Портмонета"
+    }
+  ],
+  "mens-clothes": [{
+      "aHref": "sweatpants",
+      "count": "646",
+      "value": "Анцузи"
+    },
+    {
+      "aHref": "underwear",
+      "count": "7",
+      "value": "Бельо"
+    },
+    {
+      "aHref": "tops",
+      "count": "2121",
+      "value": "Блузи"
+    },
+    {
+      "aHref": "jumpsuits",
+      "count": "53",
+      "value": "Гащеризони"
+    },
+    {
+      "aHref": "jeans",
+      "count": "4492",
+      "value": "Дънки"
+    },
+    {
+      "aHref": "vests",
+      "count": "392",
+      "value": "Елеци"
+    },
+    {
+      "aHref": "cardigans",
+      "count": "564",
+      "value": "Жилетки"
+    },
+    {
+      "aHref": "leggings",
+      "count": "13",
+      "value": "Клинове"
+    },
+    {
+      "aHref": "leather-jackets",
+      "count": "209",
+      "value": "Кожени якета"
+    },
+    {
+      "aHref": "shorts",
+      "count": "134",
+      "value": "Къси панталони"
+    },
+    {
+      "aHref": "suits",
+      "count": "41",
+      "value": "Костюми"
+    },
+    {
+      "aHref": "shirts",
+      "count": "11940",
+      "value": "Ризи"
+    },
+    {
+      "aHref": "blazers",
+      "count": "7095",
+      "value": "Сака"
+    },
+    {
+      "aHref": "coats",
+      "count": "431",
+      "value": "Палта"
+    },
+    {
+      "aHref": "trousers",
+      "count": "12421",
+      "value": "Панталони"
+    },
+    {
+      "aHref": "sweaters",
+      "count": "3007",
+      "value": "Пуловери"
+    },
+    {
+      "aHref": "sports-clothing",
+      "count": "2838",
+      "value": "Спортни дрехи"
+    },
+    {
+      "aHref": "sweatshirts",
+      "count": "310",
+      "value": "Суичъри"
+    },
+    {
+      "aHref": "t-shirts",
+      "count": "483",
+      "value": "Тениски"
+    },
+    {
+      "aHref": "jackets",
+      "count": "1884",
+      "value": "Якета"
+    }
+  ],
+  "womens-clothes": [{
+      "aHref": "sweatpants",
+      "count": "2071",
+      "value": "Анцузи"
+    },
+    {
+      "aHref": "underwear",
+      "count": "73",
+      "value": "Бельо"
+    },
+    {
+      "aHref": "tops",
+      "count": "44476",
+      "value": "Блузи"
+    },
+    {
+      "aHref": "boleros-and-ponchos",
+      "count": "3729",
+      "value": "Болеро и пончо"
+    },
+    {
+      "aHref": "jumpsuits",
+      "count": "1365",
+      "value": "Гащеризони"
+    },
+    {
+      "aHref": "jeans",
+      "count": "13802",
+      "value": "Дънки"
+    },
+    {
+      "aHref": "vests",
+      "count": "9056",
+      "value": "Елеци"
+    },
+    {
+      "aHref": "cardigans",
+      "count": "46259",
+      "value": "Жилетки"
+    },
+    {
+      "aHref": "leggings",
+      "count": "1788",
+      "value": "Клинове"
+    },
+    {
+      "aHref": "leather-jackets",
+      "count": "1389",
+      "value": "Кожени якета"
+    },
+    {
+      "aHref": "suits",
+      "count": "122",
+      "value": "Костюми"
+    },
+    {
+      "aHref": "shorts",
+      "count": "1236",
+      "value": "Къси панталони"
+    },
+    {
+      "aHref": "coats",
+      "count": "4232",
+      "value": "Палта"
+    },
+    {
+      "aHref": "trousers",
+      "count": "40046",
+      "value": "Панталони"
+    },
+    {
+      "aHref": "skirts",
+      "count": "40783",
+      "value": "Поли"
+    },
+    {
+      "aHref": "sweaters",
+      "count": "35654",
+      "value": "Пуловери"
+    },
+    {
+      "aHref": "shirts",
+      "count": "18548",
+      "value": "Ризи"
+    },
+    {
+      "aHref": "dresses",
+      "count": "21670",
+      "value": "Рокли"
+    },
+    {
+      "aHref": "blazers",
+      "count": "23927",
+      "value": "Сака"
+    },
+    {
+      "aHref": "sports-clothing",
+      "count": "8988",
+      "value": "Спортни дрехи"
+    },
+    {
+      "aHref": "sweatshirts",
+      "count": "997",
+      "value": "Суичъри"
+    },
+    {
+      "aHref": "t-shirts",
+      "count": "709",
+      "value": "Тениски"
+    },
+    {
+      "aHref": "tunics",
+      "count": "8994",
+      "value": "Туники"
+    },
+    {
+      "aHref": "socks-and-tights",
+      "count": "1",
+      "value": "Чорапи и чорапогащници"
+    },
+    {
+      "aHref": "jackets",
+      "count": "12815",
+      "value": "Якета"
+    }
+  ],
+  "shoes": [{
+      "aHref": "womens-shoes",
+      "count": "2908",
+      "value": "Дамски обувки"
+    },
+    {
+      "aHref": "mens-shoes",
+      "count": "645",
+      "value": "Мъжки обувки"
+    },
+    {
+      "aHref": "kids-shoes",
+      "count": "476",
+      "value": "Детски обувки"
+    }
+  ]
+}

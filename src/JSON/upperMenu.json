@@ -1,0 +1,28 @@
+[{
+    "class": "products",
+    "title": "Всичко",
+    "href": "/bg",
+    "value": "Всичко"
+
+  },
+  {
+    "class": "secondhand",
+    "title": "SECOND HAND",
+    "href": "/bg/secondhand",
+    "value": "SECOND HAND"
+
+  },
+  {
+    "class": "outlet",
+    "title": "Outlet",
+    "href": "/bg/outlet",
+    "value": "Outlet"
+
+  },
+  {
+    "class": "sale",
+    "title": "SALE",
+    "href": "/bg/sale",
+    "value": "SALE"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "href": "womens-clothes",
+    "title": "жени",
+    "dataId": "10000",
+    "rel": "womens-clothes",
+    "aValue": " Жени ",
+    "value": "Дамски дрехи"
+  },
+  {
+    "href": "mens-clothes",
+    "title": "Мъже",
+    "dataId": "20000",
+    "rel": "mens-clothes",
+    "aValue": " Мъже ",
+    "value": "Мъжки дрехи"
+  },
+  {
+    "href": "bags",
+    "title": "Чанти",
+    "dataId": "30000",
+    "rel": "bags",
+    "aValue": " Чанти ",
+    "value": "Чанти"
+  },
+   {
+    "href": "accessories",
+    "title": "Аксесоари",
+    "dataId": "40000",
+    "rel": "accessories",
+    "aValue": " Аксесоари ",
+    "value": "Аксесоари"
+  },
+  {
+    "href": "shoes",
+    "title": "Обувки",
+    "dataId": "50000",
+    "rel": "shoes",
+    "aValue": " Обувки ",
+    "value": "Обувки"
+  },
+  {
+    "href": "child-clothes",
+    "title": "Деца",
+    "dataId": "60000",
+    "rel": "child-clothes",
+    "aValue": " Деца ",
+    "value": "Детски дрехи"
+  }
+]

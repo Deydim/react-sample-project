@@ -1,0 +1,82 @@
+{"List":[
+  { 
+    "funcName": "CategoriesFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-sub-category",
+    "aId": "sort-category",
+    "aHref":"javascript:void(0);",
+    "value": "Категории"
+  },
+  {
+    "funcName": "ListTags",
+    "liId": "list-tags",
+    "liClass": "filters-top-item filters-tags hidden "
+  },
+  {
+    "funcName": "BrandsFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-brands",
+    "aId": "sort-brands",
+    "aHref":"javascript:void(0);",
+    "value": "Марки",
+    "queries" : ["brands_range", "brand"]
+  },
+  {
+    "funcName": "SizesFilter",
+    "liId": "",
+    "liRel": "womens-clothes",
+    "liClass": "filters-top-item filters-sizes  ",
+    "aId": "sort-size",
+    "aHref":"javascript:void(0);",
+    "value": "Размер"
+  },
+  {
+    "funcName": "ColorFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-color ",
+    "aId": "sort-color",
+    "aHref":"javascript:void(0);",
+    "value": "Цвят"
+  },
+  {
+    "funcName": "ConditionFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-condition ",
+    "aId": "sort-condition",
+    "aHref":"javascript:void(0);",
+    "value": "Състояние"
+  },
+  {
+    "funcName": "SeasonsFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-seasons ",
+    "aId": "sort-season",
+    "aHref":"javascript:void(0);",
+    "value": "Сезон"
+  },
+  {
+    "funcName": "AddedFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-added ",
+    "aId": "sort-added",
+    "aHref":"javascript:;",
+    "value": "Добавено"
+  },
+  {
+    "funcName": "PromoFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-promotions ",
+    "aId": "sort-promotions",
+    "aHref":"javascript:;",
+    "value": "Промоции"
+  },
+  {
+    "funcName": "PriceFilter",
+    "liId": "",
+    "liClass": "filters-top-item filters-price ",
+    "aId": "sort-price",
+    "aHref":"javascript:;",
+    "value": "Цена"
+  }
+]
+}
