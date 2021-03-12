@@ -1,4 +1,5 @@
 import React, { Suspense } from 'react';
+import sample_productsList from '../../JSON/sampleProductList'
 import useFetch from 'fetch-suspense';
 
 
@@ -92,14 +93,14 @@ export const ProductsListing = ({productsData}) => {
               <div className="product-price">
                 <div className="cont-flex">
     {/* missing when no promo */}
-    {!!item.promo &&
+    { !!item.promo &&
                   <div className="hidden">
                     <div className="tooltip-content custom-tooltip text-nowrap">
                       <div>
                         {
-                        ((item.outlet && item.sale) || (item.sale)) && "Промоционална отстъпка: -" + item.promo
-                        (item.outlet && !item.sale) && "Промоционална отстъпка: -" + item.promo
-                        (!item.outlet && !item.sale) && "Ежедневна отстъпка: -" + item.promo
+                        ((item.outlet && item.sale) || (item.sale)) ? `Промоционална отстъпка: -${item.promo}` ?
+                        (item.outlet && !item.sale) && `Промоционална отстъпка: -${item.promo}` :
+                        (!item.outlet && !item.sale) && `Ежедневна отстъпка: -${item.promo}`: false
                         }
                         {/* Outlet отстъпка: -35% {/* promo: 35; sale = промо отстъпка; без sale/outlet = ежедневна отстъпка */  } */}
 
@@ -168,7 +169,9 @@ export const ProductsListing = ({productsData}) => {
   )
 }
 export const FetchProductList = () => {
+  // const response = useFetch('https://remixshop.com/bg/api/product/list?promo[]=35', { method: 'GET', mode: 'cors',});
   const response = useFetch('https://cors-anywhere.herokuapp.com/https://remixshop.com/bg/api/product/list?promo[]=35', { method: 'GET', mode: 'cors',});
+  // const response = sample_productsList;
   return (
     <ProductsListing productsData = {response.products}/>
   );
